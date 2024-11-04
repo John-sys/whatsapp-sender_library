@@ -1,4 +1,4 @@
-`whatsapp-sender` is a Python library that makes it easy to send messages using WhatsApp's official API. This library is built to interact with the WhatsApp Business API, providing a simple way to send text messages and OTP messages.
+`whatsapp_messager` is a Python library that makes it easy to send messages using WhatsApp's official API. This library is built to interact with the WhatsApp Business API, providing a simple way to send text messages and OTP messages.
 
 ## Features
 

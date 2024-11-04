@@ -6,10 +6,10 @@ DESCRIPTION = "WhatsApp message sender"
 LONG_DESCRIPTION = open("README.md").read()
 AUTHOR = "John Gbaya-kokoya"
 EMAIL = "gbayakokoyajohnjr@gmail.com"
-URL = "https://github.com/yourusername/whatsapp-sender"
+URL = "https://github.com/John-sys/whatsapp-sender_library"
 
 setup(
-    name="whatsapp-sender",
+    name="whatsapp_messager",
     version=VERSION,
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
@@ -18,6 +18,7 @@ setup(
     author_email=EMAIL,
     url=URL,
     packages=find_packages(),
+    package_dir={"": "."},
     install_requires=[
         "requests>=2.25.0",
         "setuptools>=42.0.0",
