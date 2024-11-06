@@ -63,7 +63,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - John Gbaya-kokoya
     
-- Email
+- gbayakokoyajohnjr@gmail.com
     
 
 ## Contributing
@@ -72,8 +72,8 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## Links
 
-- [GitHub Repository](https://github.com/yourusername/whatsapp-sender)
+- [GitHub Repository](https://github.com/John-sys/whatsapp-sender_library)
     
-- [Bug Reports](https://github.com/yourusername/whatsapp-sender/issues)
+- [Bug Reports](https://github.com/John-sys/whatsapp-sender_library/issues)
     
-- [Documentation](https://github.com/yourusername/whatsapp-sender#readme)
+- [Documentation](https://github.com/John-sys/whatsapp-sender_library)
