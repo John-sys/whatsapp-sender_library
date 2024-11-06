@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/apple/Documents/My code projects/Packages/Python/WhatsAppSender/env/bin/python3.12" "$0" "$@"
+'''exec' "/Users/apple/Documents/My code projects/Packages/Python/whatsapp_messager/env/bin/python3.12" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

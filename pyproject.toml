@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "whatsapp_messager"
-version = "0.0.2"
+version = "0.0.3"
 description = "WhatsApp message sender using WhatsApp Business API"
 readme = "README.md"
 authors = [{ name = "John Gbaya-Kokoya", email = "gbayakokoyajohnjr@gmail.com" }]
@@ -33,4 +33,4 @@ Repository = "https://github.com/John-sys/whatsapp-sender_library"
 Issues = "https://github.com/John-sys/whatsapp-sender_library/issues"
 
 [tool.setuptools]
-packages = ["whatsapp_sender"]
+packages = ["whatsapp_messager"]

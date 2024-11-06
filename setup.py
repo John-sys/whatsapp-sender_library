@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 # Package meta-data
-VERSION = "0.0.1"
+VERSION = "0.0.3"
 DESCRIPTION = "WhatsApp message sender"
 LONG_DESCRIPTION = open("README.md").read()
 AUTHOR = "John Gbaya-kokoya"
